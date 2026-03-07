@@ -1,0 +1,54 @@
+name: Bug Report
+description: Report a problem or unexpected behavior
+title: "[Bug]: "
+labels: ["bug"]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Clearly describe the problem
+      placeholder: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the issue
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. Observe the issue
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should have happened?
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Provide relevant system information
+      placeholder: |
+        MiSTer Version:
+        Console Mode Version:
+        Hardware:
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Logs
+      description: Add screenshots or logs if available
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any extra information

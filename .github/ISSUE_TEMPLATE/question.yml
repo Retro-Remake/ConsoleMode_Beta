@@ -1,0 +1,20 @@
+name: Question
+description: Ask a question about Console Mode
+title: "[Question]: "
+labels: ["question"]
+
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Ask your question clearly
+      placeholder: What would you like to know?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Provide background information if relevant
