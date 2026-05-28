@@ -1,4 +1,4 @@
-# ConsoleMode_Beta
+# ConsoleMode Open Beta
 Provide feedback/bugs on the Console Mode Beta.
 
 # Beta 1 Limitations
