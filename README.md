@@ -1,4 +1,4 @@
-# ConsoleMode Open Beta
+# Console Mode Open Beta
 Provide feedback/bugs on the Console Mode Open Beta.
 
 # Beta 1.0.6 Limitations
@@ -11,3 +11,6 @@ Provide feedback/bugs on the Console Mode Open Beta.
 
 # Installation
 -https://github.com/Retro-Remake/Downloader_MiSTer/releases/tag/latest
+
+# Console Mode Discord Channel
+-https://discord.gg/74pb5PJRxX
